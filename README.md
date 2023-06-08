@@ -1,4 +1,4 @@
-# House Price of India
+# House Price of India project
 > #### На этой страничке Вы найдете описание моего проекта в рамках курса "Анализ данных", но сначала зацените моё фото без обработки:
 ![Моё фото без обработки](https://github.com/kir1llova/fesproject/blob/main/me.jpg)
 
