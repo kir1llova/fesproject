@@ -25,3 +25,6 @@
 - README.md - описание проекта
 - me.jpg - моя фотка без обработки
 - part 1. processing.ipynb - 1 часть проекта: обработка данных.
+
+---
+###### done by meow_lin
